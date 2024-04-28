@@ -1,7 +1,7 @@
 # Multistage build and Distroless images
 
 
-1) In general if i have to run simple node JS app in debain  , i can take node node:20 images which comes with deebian OS and Node js installed and I can simple run using https://github.com/VamsiPothireddy/docker-handson/blob/main/multistage-buildAndDistroless/examples/without-multistagebuild/Dockerfile 
+1) In general if i have to run simple node JS app in debain  , i can take node node:20 images which comes with deebian OS and Node js installed and I can simple run using [Dockerfile](https://github.com/VamsiPothireddy/docker-handson/blob/main/multistage-buildAndDistroless/examples/without-multistagebuild/Dockerfile)
 
 This will come with rich os many debian binaries 
 
