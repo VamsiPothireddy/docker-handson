@@ -17,3 +17,13 @@ Below is screen shot when i get in to conatiner created using this docker file w
 
 <img width="1422" alt="Screen Shot 2024-04-28 at 8 01 52 AM" src="https://github.com/VamsiPothireddy/docker-handson/assets/47288461/720457c4-a4c0-4c9e-aee5-36b8c072846c">
 
+
+
+**Advanages of using Multistage build using distroless images**
+
+Security- Since only app limuited binaries and very minimal os realted buaries , so no even can get in to conatiner to run culr commands , to install anything etc
+
+Sizing - size is significantly reduced . Below size comparision 
+
+<img width="810" alt="Screen Shot 2024-04-28 at 8 06 22 AM" src="https://github.com/VamsiPothireddy/docker-handson/assets/47288461/cc0fb13b-7bf2-4a17-ad7b-74a4d6bcccfb">
+
