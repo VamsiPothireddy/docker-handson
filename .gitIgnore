@@ -3,3 +3,6 @@
 
 # Ignore copiedfromDistrolessImage directories
 **/copiedfromDistrolessImage/
+
+**/.DS_Store
+
