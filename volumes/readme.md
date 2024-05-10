@@ -44,3 +44,6 @@ docker rm node-service-logger2
 ### create new nginx conatiner and attach existing volume
 docker run -d --name my-nginx-container -p 80:80 -v nodejs-app-logger-volume:/usr/share/nginx/html nginx:alpine
 
+<img width="985" alt="Screen Shot 2024-05-10 at 4 33 00 PM" src="https://github.com/VamsiPothireddy/docker-handson/assets/47288461/dac54a1b-b5c8-4f3c-b6f8-827963c758c4">
+
+
