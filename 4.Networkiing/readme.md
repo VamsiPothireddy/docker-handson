@@ -1,4 +1,6 @@
 **Check existing networks**
+
+
 docker network ls
 
 <img width="439" alt="Screen Shot 2024-05-10 at 5 18 02 PM" src="https://github.com/VamsiPothireddy/docker-handson/assets/47288461/a3ddd9a9-4a09-4f69-b917-e9876bcb5116">
